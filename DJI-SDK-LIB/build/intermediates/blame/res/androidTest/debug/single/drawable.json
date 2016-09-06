@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/radio_unchecked.png",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/radio_unchecked.png"
+    },
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_lock_selector.xml",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_lock_selector.xml"
+    },
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_selector.xml",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_zoom_selector.xml"
+    },
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/radio_unchecked.png",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/radio_unchecked.png"
+    },
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_zoom_selector.xml",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_zoom_selector.xml"
+    },
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/radio_checked.png",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/radio_checked.png"
+    },
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_radio_selector.xml",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_radio_selector.xml"
+    },
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/radio_checked.png",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/radio_checked.png"
+    },
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_lock_selector.xml",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_lock_selector.xml"
+    },
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/drawable/btn_radio_selector.xml",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/drawable/btn_radio_selector.xml"
+    }
+]

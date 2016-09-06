@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_mission"
+        android:icon="@drawable/ic_menu_map"
+        android:title="@string/drawer_menu_mission" />
+
+    <item
+        android:id="@+id/nav_telemetry"
+        android:icon="@drawable/ic_menu_telemetry"
+        android:title="@string/drawer_menu_telemetry" />
+
+
+    <item
+        android:id="@+id/nav_camera"
+        android:icon="@drawable/ic_menu_camera"
+        android:title="@string/drawer_menu_camera" />
+</menu>

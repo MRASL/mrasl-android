@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml"
+    },
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/layout/log_dialog_view.xml",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/layout/log_dialog_view.xml"
+    }
+]

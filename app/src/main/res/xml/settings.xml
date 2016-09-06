@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="@string/pref_connection">
+        <EditTextPreference
+            android:defaultValue="192.168.1.155"
+            android:key="@string/pref_connection_address_key"
+            android:summary="@string/pref_connection_address_sum"
+            android:title="@string/pref_connection_address"/>
+
+        <ca.polymtl.mrasl.ui.dialog.PortPickerDialog
+            android:defaultValue="11311"
+            android:key="@string/pref_connection_port_key"
+            android:summary="@string/pref_connection_port_sum"
+            android:title="@string/pref_connection_port"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_ford">
+        <EditTextPreference
+            android:defaultValue="127.0.0.1"
+            android:key="@string/pref_ford_address_key"
+            android:summary="@string/pref_ford_address_sum"
+            android:title="@string/pref_ford_address"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_telemetry">
+        <ca.polymtl.mrasl.ui.dialog.FrequencyPickerDialog
+            android:defaultValue="30"
+            android:key="@string/pref_telemetry_freq_key"
+            android:summary="@string/pref_telemetry_freq_sum"
+            android:title="@string/pref_telemetry_freq"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory android:title="@string/pref_camera">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="@string/pref_camera_rec_key"
+            android:summary="@string/pref_camera_rec_sum"
+            android:title="@string/pref_camera_rec"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="@string/pref_gimbal">
+        <ListPreference
+            android:defaultValue="0"
+            android:entries="@array/gimbal_mode"
+            android:entryValues="@array/gimbal_mode_values"
+            android:key="@string/pref_gimbal_mode_key"
+            android:summary="@string/pref_gimbal_mode_sum"
+            android:title="@string/pref_gimbal_mode"/>
+    </PreferenceCategory>
+</PreferenceScreen>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml",
+        "source": "/home/gabriel/workspace/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml"
+    },
+    {
+        "merged": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/res/merged/androidTest/debug/xml/accessory_filter.xml",
+        "source": "/home/gabriel/Workspace/android/mrasl-android/DJI-SDK-LIB/build/intermediates/bundles/debug/res/xml/accessory_filter.xml"
+    }
+]

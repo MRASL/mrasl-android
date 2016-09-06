@@ -1,0 +1,68 @@
+<resources>
+    <!-- Application name -->
+    <string name="app_name">MRASL</string>
+
+    <!-- Strings for the drop down menu -->
+    <string name="settings">Settings</string>
+    <string name="command_center">Command Center</string>
+
+    <!-- Strings for the navigation -->
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <!-- Strings for the drawer menu -->
+    <string name="drawer_menu_command_center">Command Center</string>
+    <string name="drawer_menu_single">Single</string>
+    <string name="drawer_menu_mission">Mission</string>
+    <string name="drawer_menu_camera">Camera</string>
+    <string name="drawer_menu_telemetry">Telemetry</string>
+
+    <!-- Strings for the preferences activity -->
+    <string name="pref_connection">Connection</string>
+    <string name="pref_connection_address">Address</string>
+    <string name="pref_connection_address_key">address</string>
+    <string name="pref_connection_address_sum">IP address of the drone</string>
+    <string name="pref_connection_port">Port</string>
+    <string name="pref_connection_port_key">port</string>
+    <string name="pref_connection_port_sum">Port used for the communication with the drone</string>
+
+    <string name="pref_ford">Ford Server</string>
+    <string name="pref_ford_address">Address</string>
+    <string name="pref_ford_address_key">ford_address</string>
+    <string name="pref_ford_address_sum">IP address of the Ford server</string>
+
+    <string name="pref_telemetry">Telemetry</string>
+    <string name="pref_telemetry_freq">Frequency</string>
+    <string name="pref_telemetry_freq_key">frequency</string>
+    <string name="pref_telemetry_freq_sum">Frequency for sending GPS and IMU</string>
+
+    <string name="pref_camera">Camera</string>
+    <string name="pref_camera_rec">Recording</string>
+    <string name="pref_camera_rec_key">record</string>
+    <string name="pref_camera_rec_sum">Record the video of the mission</string>
+
+    <string name="pref_gimbal">Gimbal</string>
+    <string name="pref_gimbal_mode">Work Mode</string>
+    <string name="pref_gimbal_mode_key">gimbal_mode</string>
+    <string name="pref_gimbal_mode_sum">The work mode of the gimbal</string>
+
+    <!-- Strings for the cast namespaces -->
+    <string name="cast_command">urn:x-cast:ca.polymtl.mrasl.command</string>
+    <string name="cast_tag">urn:x-cast:ca.polymtl.mrasl.tag</string>
+
+    <!-- Java strings -->
+    <string name="registration_success">Application registration successful</string>
+    <string name="registration_failed">Application registration failed</string>
+    <string name="aircraft_connected">Connected</string>
+    <string name="aircraft_disconnected">Disconnected</string>
+    <string name="aircraft_none">None</string>
+    <string name="dialog_start_mission">
+        You are about to start the mission. Are you sure?
+    </string>
+    <string name="dialog_abort_landing">
+        You are about to abort the mission with an emergency landing. Are you sure?
+    </string>
+    <string name="dialog_abort_mission">
+        "You are about to abort the mission by hovering on place. Are you sure?"
+    </string>
+</resources>
